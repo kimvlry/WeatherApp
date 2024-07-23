@@ -1,0 +1,32 @@
+{
+  "cities_list":
+  [
+    "Moscow",
+    "Saint Petersburg",
+    "Surgut",
+    "Abakan",
+    "Syktyvkar",
+    "Tyumen",
+    "Vyborg",
+    "Nizhniy Novgorod",
+    "Kazan",
+    "Omsk",
+    "Krasnodar",
+    "Vladivostok",
+    "Magnitogorsk",
+    "Sochi",
+    "Bryansk",
+    "Sterlitamak",
+    "Cherepovets",
+    "Velikiy Novgorod",
+    "Rybinsk",
+    "Kolomna",
+    "Dolgoprudnyy",
+    "Khanty-Mansiysk",
+    "Dzerzhinskiy"
+  ],
+  "update_frequency": 5,
+  "forecast_days": 15
+}
+
+
