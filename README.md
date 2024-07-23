@@ -1,4 +1,4 @@
-# Weather forecast app. External libraries.
+# Weather forecast app
 A console application that displays the weather forecast for a list of cities. 
 - Weather forecast displays for several days ahead (the default value is defined by the config file)
 - Forecast updates with some frequency (defined by the config file)
