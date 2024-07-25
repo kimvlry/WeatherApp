@@ -3,6 +3,8 @@ A console application that displays the weather forecast for a list of cities.
 - Weather forecast displays for several days ahead (the default value is defined by the config file)
 - Forecast updates with some frequency (defined by the config file)
 
+![](visuals.gif)
+
 ## Data sources
 - [Open-Meteo](https://open-meteo.com/en/docs#latitude=59.94&longitude=30.31&hourly=temperature_2m&forecast_days=16 ) for the forecast
 - [Api-Ninjas](https://api-ninjas.com/api/city ) for the cities' coordinates
